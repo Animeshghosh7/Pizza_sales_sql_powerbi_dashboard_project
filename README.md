@@ -1,1 +1,1 @@
-# Pizza_sales_sql_powerbi_dashboard_project
+This is SQL and PowerBI end to end Project
